@@ -1,4 +1,4 @@
-#Polymorphism is the ability to show multipleforms as per different conditions.
+#Polymorphism is the ability to show multiple forms as per different conditions.
 #Example: len on string give no. of characters including symbols, but on list of strings, it will give count of string elements present.
 a = len("Hello")
 b = len(["A",'B','C'])
